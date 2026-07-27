@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Haider Ali Software Developer Banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi there 👋, I'm Haider Ali
