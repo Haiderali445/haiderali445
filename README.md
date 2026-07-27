@@ -44,15 +44,14 @@ I’m a passionate **Software Developer & System Design Specialist** currently w
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haiderali455&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://gprm.itsvg.in/api?username=Haiderali455&theme=radical&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haiderali455&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### ⚙️ Terminal Setup
