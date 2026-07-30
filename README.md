@@ -29,20 +29,20 @@ I’m a passionate **Software Developer & System Design Specialist** currently w
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Systems** | Node.js, Express, FastAPI, Microservices, REST APIs, Supabase, Firebase |
+| **Backend & Systems** | C# (.NET 8.0), ASP.NET Core MVC, Entity Framework Core, Node.js, Express, FastAPI, Microservices, REST APIs, Supabase, Firebase |
 | **Frontend Engineering** | React, Next.js, Vite, Tailwind CSS, TypeScript, JavaScript |
 | **AI & Machine Learning** | Python, TensorFlow, PyTorch, Classical ML (KNN, K-Means, CNNs), OpenAI, LangChain |
-| **Databases & Cloud** | PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Google Cloud |
+| **Databases & Cloud** | MS SQL Server, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Google Cloud |
 | **Workflow & Environment** | Linux, Unix, Zsh (Powerlevel10k theme), Git, GitHub, Cursor |
 
 ---
 
 ### 🚀 Featured Projects & Systems
 
-* **[Ego-Monorepo](https://github.com/haideraliblog)** – A custom monorepo digital twin architecture designed to automate daily routine tasks and personal workflows.
-* **[Smart POS & SIMS-AKURA](https://haideraliblog.netlify.app/)** – Full-stack inventory and point-of-sale solutions featuring secure authentication, real-time updates, and robust MERN/FastAPI backend operations.
-* **[AI Assistant & ML Pipelines](https://haideraliblog.netlify.app/)** – Intelligent virtual assistants and neural network workflows integrating Python, TensorFlow, and modern web interfaces.
-* **[Opportunity Portal Refactor](https://haideraliblog.netlify.app/)** – Advanced application restriction logic engineered with React and Firebase to manage validation rules and prevent duplicate submissions.
+* 🪐 **[Sims-Akura Core MVC](https://github.com/Haiderali445/sims_akura_core_mvc)** – An enterprise-grade, smart inventory management and billing workspace studio built using C#, .NET 8.0, ASP.NET Core MVC, and SQL Server. Features trigger-based audit logs, soft deletes, and unit-of-work atomic transactional boundaries.
+* 🛠️ **[Ego-Monorepo](https://github.com/haideraliblog)** – A custom monorepo digital twin architecture designed to automate daily routine tasks and personal workflows.
+* 🤖 **[AI Assistant & ML Pipelines](https://haideraliblog.netlify.app/)** – Intelligent virtual assistants and neural network workflows integrating Python, TensorFlow, and modern web interfaces.
+* ⚡ **[Opportunity Portal Refactor](https://haideraliblog.netlify.app/)** – Advanced application restriction logic engineered with React and Firebase to manage validation rules and prevent duplicate submissions.
 
 ---
 
@@ -61,9 +61,9 @@ I’m a passionate **Software Developer & System Design Specialist** currently w
 ### ⚙️ Terminal Setup
 ```javascript
 const stack = {
-  os: "Linux",
+  os: "Linux / Windows (WSL2)",
   shell: "ZSH (Powerlevel10k)",
   editor: "Cursor / VS Code",
-  framework: "React / Vite / FastAPI",
-  focus: "System Architecture & Automation"
+  framework: "C# (.NET 8) / React / FastAPI",
+  focus: "System Architecture, Backend Engineering & Automation"
 };
